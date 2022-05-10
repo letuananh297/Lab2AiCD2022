@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\Второй курс (2)\АиСД\Lab2\Huffman.h(197,11): warning C4018: '<': signed/unsigned mismatch
+D:\Второй курс (2)\АиСД\Test Lab2\test.cpp(5,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+D:\Второй курс (2)\АиСД\Test Lab2\test.cpp(99,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+  Test Lab2.vcxproj -> D:\Второй курс (2)\АиСД\Lab2\Debug\Test Lab2.exe
